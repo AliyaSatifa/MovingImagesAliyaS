@@ -42,6 +42,6 @@ Runtime:addEventListener("enterFrame", MoveShip)
 local turtle = display.newImageRect( "Images/Turtle.png", 200, 200 )
 
 -- set the initial x and y position of Turtle
-Turtle.x= 2
+turtle.x= 2
 
 
